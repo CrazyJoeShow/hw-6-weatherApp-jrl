@@ -33,7 +33,7 @@ The documentation is very much user friendly unlike most API's i've found.
 ### Screenshots
 
 ![WEATHER SCREENSHOT](assets/shot1.png)
-![WEATHER SCREENSHOT](assets/shot2)
+![WEATHER SCREENSHOT](assets/shot2.png)
 
 #### Built Using
 

@@ -1,8 +1,10 @@
 # hw-6-weatherApp-jrl
 
-## Weather Dashboard
+## Ye Old Weather Dashboard
 
-LIVE PAGE
+##### DISCLAIMER
+
+with MVP in mind the app should load for you and you should be able to search your current city forecast, I still have some bugs to work out but needs to be submitted now, so I've lost UV index and listing my previous searches and appending to the page but the functionality should operate 1 search at a time for now. I will push changes as I block time to come back to this project.
 
 ### Assignment
 
@@ -15,7 +17,10 @@ With this application and my last I began using the sandbox a ton to play around
 -Git is the verseion control
 -CSS to style the container
 -HTML created DOM elements with
--javascrip dynamically change the html
+-javascrip dynamically change the html on the DOM
+-Bootstrap responsive and organized structure
+-local storage to display saved data that is searched, called for then presented on page
+-momentjs"an attempt anyways" to pull current dat for current city
 
 ### Thanks
 

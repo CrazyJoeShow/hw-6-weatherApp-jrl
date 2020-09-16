@@ -50,6 +50,28 @@ function searchCity(cityname) {
 		newDiv.append(displayMainDate, currentIcon, tempEL, humEl, windEl);
 		$('#current').html(newDiv);
 	});
+
+	//-------UVindex call---------//
+
+	var lat = response.data.lat;
+	var lon = response.data.lon;
+	var queryURLUV =
+		'https://api.openweathermap.org/data/2.5/uvi?&appid=ecc0be5fd92206da3aa90cc41c13ca56&lat=' +
+		lat +
+		'&lon=' +
+		lon;
+
+	$.ajax({
+		url: queryURLUV,
+		method: 'GET',
+	}).then(function (response) {
+		$('#uvl-display').empty();
+		var uvlresults = response.value;
+		var uvlEl = $("<button calss='btn bg-success'>").text(
+			'UV Index: ' + response.value
+		);
+		$('#uvl-display').html(uvlEl);
+	});
 }
 
 //-----------event listner and storage upon click-----------

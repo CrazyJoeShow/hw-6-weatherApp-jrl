@@ -30,7 +30,7 @@ function searchCity(cityname) {
 	});
 }
 
-//-----------event handler for the city search-----------
+//-----------event listner and storage upon click-----------
 
 $('#select-city').on('click', function (event) {
 	event.preventDefault();

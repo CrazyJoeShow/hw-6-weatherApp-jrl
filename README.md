@@ -30,6 +30,10 @@ The documentation is very much user friendly unlike most API's i've found.
 -Classmates who are great with sharing there issues that helps me out tremendously.
 -Thanks to our instructional staff who does a great job in the short amount of time we have together.
 
+### Screenshots
+
+![WeatherDashboardScreenshot](assets/shot1)
+
 #### Built Using
 
 - [API](https://openweathermap.org/api)

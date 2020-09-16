@@ -2,9 +2,12 @@
 
 ## Ye Old Weather Dashboard
 
+Live Application
+https://crazyjoeshow.github.io/hw-6-weatherApp-jrl/
+
 ##### DISCLAIMER
 
-with MVP in mind the app should load for you and you should be able to search your current city forecast, I still have some bugs to work out but needs to be submitted now, so I've lost UV index and listing my previous searches and appending to the page but the functionality should operate 1 search at a time for now. I will push changes as I block time to come back to this project.
+with MVP in mind the app should load for you and you should be able to search your current city forecast, I still have some bugs to work out but needs to be submitted now, so I've lost UV index and listing my previous searches and appending to the page but the functionality should operate 1 search at a time for now. I will push changes as I block time to come back to this project. Scaling is a litte rough moving from full screen to mobile, BUT all days remain read-able.
 
 ### Assignment
 

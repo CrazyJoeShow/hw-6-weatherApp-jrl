@@ -33,6 +33,7 @@ The documentation is very much user friendly unlike most API's i've found.
 ### Screenshots
 
 ![WeatherDashboardScreenshot](assets/shot1)
+![WeatherDashboardScreenshot](assets/shot2)
 
 #### Built Using
 
